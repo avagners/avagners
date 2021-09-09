@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avagners. I'm newcomer in this world of IT.
+- 👋 Hi, I’m @avagners. I'm a newcomer in this world of IT.
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python
 
