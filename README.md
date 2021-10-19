@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 
 ![avagners's GitHub stats](https://github-readme-stats.vercel.app/api?username=avagners&show_icons=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avagners&layout=compact/" width="208" height="auto"/>
 
 <!---
 avagners/avagners is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
