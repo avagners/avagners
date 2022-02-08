@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python
 
-![avagners's GitHub stats](https://github-readme-stats.vercel.app/api?username=avagners&show_icons=true&count_private=true)
+![avagners's GitHub stats](https://github-readme-stats.vercel.app/api?username=avagners&show_icons=true)
 
 <!---
 avagners/avagners is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
