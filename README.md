@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Vagner</h1>
 <h3 align="center">Python Developer</h3>
+<p align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=avagners&theme=darcula&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF00"></p>
 
 **Now: ETL developer at [Magnit](https://www.magnit.tech/)**
 
@@ -23,7 +24,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avagners&count_private=true&show_icons=true&locale=en" alt="avagners" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=avagners&count_private=true&show_icons=true&locale=en" alt="avagners"/>
 
 <!---
 avagners/avagners is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
