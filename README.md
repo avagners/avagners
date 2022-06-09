@@ -2,9 +2,9 @@
 <h3 align="center">Python Developer</h3>
 <p align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=avagners&theme=darcula&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF00"></p>
 
-**Now: ETL developer at [Magnit](https://www.magnit.tech/)**
+**Now: ETL developer at [ALIDI](https://alidi.ru/)**
 
-- 🌱 I’m currently learning **Python, Django, DRF**
+- 🌱 I’m currently learning **Python, T-SQL, MS Server**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/avagners?tab=repositories)
 
