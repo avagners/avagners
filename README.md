@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexander Vagner</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Data Engineer / ETL Developer</h3>
 <p align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=avagners&theme=darcula&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF00"></p>
 
 **Now: ETL developer at [ALIDI](https://alidi.ru/)**
 
-- 🌱 I’m currently learning **Python, T-SQL, MS Server**
+Последние 2 года работаю `ETL разработчиком`. Автоматизирую обмен данными с поставщиками и покупателями в крупной дистрибьюторской FMCG компании.  
+Стек: `Python`, `SQL`, `Airflow`. Немного успел поработать с `Teradata`, `Spark`, `Hadoop`.  
+Развиваюсь в направлении работы с данными. Систематизирую накопленные знания и навыки в `Data Engineering`. 
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/avagners?tab=repositories)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
