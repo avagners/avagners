@@ -2,11 +2,10 @@
 <h3 align="center">Data Engineer / ETL Developer</h3>
 <p align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=avagners&theme=darcula&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF00"></p>
 
-**Now: ETL developer at [ALIDI](https://alidi.ru/)**
+**Now: `Data Engineer` at [Raiffeisen Bank](https://www.raiffeisen.ru/about/)**
 
-Последние 2 года работаю `ETL разработчиком`. Автоматизирую обмен данными с поставщиками и покупателями в крупной дистрибьюторской FMCG компании.  
-Стек: `Python`, `SQL`, `Airflow`. Немного успел поработать с `Teradata`, `Spark`, `Hadoop`.  
-Развиваюсь в направлении `Data Engineering`. 
+Последние 2 года работаю c данными. Сейчас `Инженер данных` в системно значимом банке России. 
+Стек: `Python`, `SQL`, `Airflow`, `Spark`, `Hadoop`.
 
 
 <h3 align="left">Languages and Tools:</h3>
