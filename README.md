@@ -11,6 +11,8 @@
   <img alt="protocol" src="https://img.shields.io/badge/protocol-REST_%2B_MCP-6f42c1?style=flat-square">
 </p>
 
+<p align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=avagners&theme=darcula&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF00" alt="streak stats"></p>
+
 > Раньше данные были таблицами. Теперь данные — это интерфейс.
 
 ## Что я строю
@@ -27,14 +29,6 @@ flowchart LR
     HUB --> YN["YARN<br/>логи приложений"]
     HUB --> TR["Trino<br/>SQL-запросы"]
 ```
-
-## Чем полезен
-
-| Область | Что делаю |
-| --- | --- |
-| Интерфейсы | Единая точка входа: REST и MCP, контракты, авторизация, наблюдаемость |
-| Данные | Airflow, Trino, Spark, Hadoop/YARN, SQL |
-| Разработка | ИИ-агенты в цикле: рутина — им, архитектура и ревью — людям |
 
 ## Как работаю
 
